@@ -9,12 +9,12 @@ st.title("Streamlit demo")
 # st.header('nagłówek')
 # st.subheader('pod nagłówek')
 
-# st.text('hello world')
+st.text('hello world')
 
-# st.markdown('# this is markdown 1A')
-# st.markdown('## this is markdown 2')
-# st.markdown('### this is markdown 3')  #więcej has mniejszy tekst
-# st.markdown('# this is markdown 1B')
+st.markdown('# this is markdown 1A')
+st.markdown('## this is markdown 2')
+st.markdown('### this is markdown 3')  #więcej has mniejszy tekst
+st.markdown('# this is markdown 1B')
 
 # st.success('successful')
 
