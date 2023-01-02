@@ -66,6 +66,8 @@ app.layout = html.Div([
 ])
 
 
+
+
 @app.callback(
     Output('crossfilter-indicator-scatter', 'figure'),
     Input('crossfilter-xaxis-column', 'value'),
